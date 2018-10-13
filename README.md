@@ -3,12 +3,15 @@ Data Structures and Algorithms, C++
 
 # Assignment 1: String sets
 Implementation of a class that stores strings.
-Supports following operations: 
-§  Creating an empty set
-§  Inserting a string
-§  Removing a string
-§  Finding a string
-§  Finding the size of a set
-§  Returning the union of the calling object and another StringSet
-§  Returning the intersection of the calling object and another StringSet
-§  Returning the set difference of the calling object and another StringSet
+
+# Assignment 2: Deques
+Deque template class, using a doubly linked list.
+
+# Assignment 3: Sorting
+Various sorting algorithms that sort template variables.
+
+# Assignment 4: Hash Table
+Uses quadratic probing. Hash table increases in size as necessary. 
+
+# Assignment 5: Priority Queues
+Implemented with an array based max heap, storing data of any type using the template class. 
